@@ -69,6 +69,12 @@
     Mensagem: <br>
     <input type ="text" name="msg" style ="width: 500px"><br>
     <input type ="submit" name="submit" value ="Enviar"><br>
+    <form method ="post" action="">
+    Nome: <br>
+    <input type ="text" name="nome" style ="width: 500px"><br>
+    Mensagem: <br>
+    <input type ="text" name="msg" style ="width: 500px"><br>
+    <input type ="submit" name="submit" value ="Enviar"><br>
     </form>
 
     <?php
